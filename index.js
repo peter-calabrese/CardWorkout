@@ -3,7 +3,7 @@
  */
 
 import {AppRegistry} from 'react-native';
-import Card from './src/components/Card';
+import NavigationModel from './src/components/NavigationModel';
 import {name as appName} from './app.json';
 
-AppRegistry.registerComponent(appName, () => Card);
+AppRegistry.registerComponent(appName, () => NavigationModel);
