@@ -1,11 +1,10 @@
 import React, {useEffect, useState} from 'react';
 import {View, Image, Pressable, Text} from 'react-native';
 import MyContext from './MyContext';
-
 import lightMode from '../styles/CardStyles/Card.light.styles';
 import darkMode from '../styles/CardStyles/Card.dark.styles';
-
 import GetDeck from '../data/Deck';
+
 const Card = ({navigation}) => {
   const [isRunning, setIsRunning] = useState(true);
   const [card, setCard] = useState(require('../assets/2C.png'));

@@ -5,7 +5,7 @@ export default StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
     height: '100%',
-    backgroundColor: '#121212',
+    backgroundColor: '#2e3440',
   },
   imageContainer: {
     width: 250,
@@ -18,7 +18,7 @@ export default StyleSheet.create({
     width: 250,
   },
   stopButton: {
-    backgroundColor: '#CC3429',
+    backgroundColor: '#D36B75',
     width: 250,
     height: 50,
     justifyContent: 'center',
@@ -29,10 +29,10 @@ export default StyleSheet.create({
   buttonText: {
     fontSize: 18,
     fontWeight: 'bold',
-    color: '#fff',
+    color: '#3B4252',
   },
   restartButton: {
-    backgroundColor: '#5BC236',
+    backgroundColor: '#a3be8c',
     width: 120,
     height: 50,
     justifyContent: 'center',
@@ -40,7 +40,7 @@ export default StyleSheet.create({
     borderRadius: 8,
   },
   rulesButton: {
-    backgroundColor: '#007AFF',
+    backgroundColor: '#88c0d0',
     width: 120,
     height: 50,
     justifyContent: 'center',
