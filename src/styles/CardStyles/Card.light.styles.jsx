@@ -5,7 +5,7 @@ export default StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
     height: '100%',
-    backgroundColor: '#FFFFFF',
+    backgroundColor: '#eceff4',
   },
   imageContainer: {
     width: 250,
