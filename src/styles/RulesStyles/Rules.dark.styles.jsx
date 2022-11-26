@@ -6,7 +6,7 @@ export default StyleSheet.create({
     justifyContent: 'center',
     height: '100%',
     backgroundColor: '#2e3440',
-    paddingHorizontal: 22,
+    paddingHorizontal: 30,
   },
   header: {
     color: '#e5e9f0',
